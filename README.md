@@ -2,7 +2,7 @@
 <!-- theme: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 ![info](https://github-readme-stats.vercel.app/api?username=mendaxv&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
-+ **My Github Blog.[https://mysticalguest.github.io](https://github.com/mendaxv)**
++ **My Github Blog.[https://github.com/mendaxv](https://github.com/mendaxv)**
 
 - 🔭 I’m currently working on java program
 - 🌱 I’m currently learning java, mysql, elasticsearch...
