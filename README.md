@@ -3,6 +3,7 @@
 ![info](https://github-readme-stats.vercel.app/api?username=mendaxv&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 + **My Github Blog.[https://github.com/mendaxv](https://github.com/mendaxv)**
++ **My juejin Blog.[https://juejin.cn/user/351462527076077](https://juejin.cn/user/351462527076077)**
 
 - 🔭 I’m currently working on java program
 - 🌱 I’m currently learning java, mysql, elasticsearch...
